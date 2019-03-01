@@ -1,0 +1,12 @@
+2019-03-01 15:49:00,098 - mylogger - INFO - LOGGER HAS BEEN CREATED AND CAN BE FOUND AT: 
+<FileHandler \\pipelinetrust.com.au\apps\GIS\Projects\CCI_Reporting\_py\runtime.log (DEBUG)>
+2019-03-01 15:49:00,153 - mylogger - INFO - Setting up environment...
+
+2019-03-01 15:53:19,387 - mylogger - INFO - LOGGER HAS BEEN CREATED AND CAN BE FOUND AT: 
+<FileHandler \\pipelinetrust.com.au\apps\GIS\Projects\CCI_Reporting\_py\runtime.log (DEBUG)>
+2019-03-01 15:53:19,451 - mylogger - INFO - Setting up environment...
+
+2019-03-01 15:53:23,291 - mylogger - INFO - CHECKING IF THE FOLLOWING FEATURE CLASS EXISTS:
+[data.gdb
+2019-03-01 15:53:23,707 - mylogger - INFO - Converting excel data to file geodatabase table...
+
