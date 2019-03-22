@@ -1,0 +1,6 @@
+Has_error, Identifier, Message, Base_value, Test_value, ObjectID
+"true", "Field", "Field Sighting_Status aliases are different", "Sighting Status", "Sighting_Status", -1
+"true", "Field", "Field Pipeline_Patrol_Program aliases are different", "Pipeline Patrol Program", "Pipeline_Patrol_Program", -1
+"true", "Field", "Field ID types are different", "long", "string", -1
+"true", "Field", "Field ID lengths are different", "4", "255", -1
+"true", "Field", "Field ID var type is different", "3", "8", -1
